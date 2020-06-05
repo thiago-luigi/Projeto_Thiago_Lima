@@ -17,5 +17,9 @@ namespace Projeto_Thiago_Lima
         {
             Console.WriteLine("MB2");
         }
+        public void MB3()
+        {
+            Console.WriteLine("MB3");
+        }
     }
 }
